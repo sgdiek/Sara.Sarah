@@ -6,9 +6,9 @@ Open green areas have been lauded as spaces for community interaction and viewed
 # A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why space and/or time matters for your project
 
 # A preliminary but definitive description of data sources (at least two) that you will use. Include datasource with links
-## SF Police Department Incident Reports
+## *SF Police Department Incident Reports
 
-## SF Land Use 
+## *SF Land Use 
 This dataset provides a land use designation for every parcel in San Francisco. The land use categories are derived from a range of city and commercial databases. The determining factor for a parcel's LANDUSE is if the square footage of any non-residential use is 80% or more of its total uses. Otherwise it becomes MIXED. The dataset is available both as a shapefile and a geojson file. For the purposes of our research, the dataset will be cleaned to only include entries designated as “Openspace.” 
 # Scope of Intended Analysis and Resulting Visualizations
 The data derived from the datasets above will be used to analyze the relationship between open green space and crime rates. The end goal is to create a cartographic visualization that highlights the crime rate (number of reported crimes / total population) by neighborhood and map that against green spaces across the city and investigate any potential overlap. Alternatively, it could be interesting to identify areas with higher rates of felony crimes and those with higher rates of petty crimes and map them against open green spaces to analyze whether there’s any overlap between the degree of crime and green spaces. To achieve this level of analysis would require categorizing crime rates from the data above as either felonies or petty crimes.
