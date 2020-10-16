@@ -1,7 +1,7 @@
 # Introduction to Research Question
 
 # Why Green Space and Crime?
-Open green areas have been lauded as spaces for community interaction and viewed as spaces where communities come together. At the same time, more contemporary discourse on green and open spaces has revolved around the privatization of such spaces and how that impacts certain aspects of commuity dynamics, like policing and security. Our goal is to understand how open spaces contribute to community safety, and to see if our findings point in the direction of green spaces existing as an alternative to policing as a method of promoting community safety.
+Open green areas have been lauded as spaces for community interaction and viewed as spaces where communities come together. At the same time, more contemporary discourse on green and open spaces has revolved around the privatization of such spaces and how that impacts certain aspects of commuity dynamics, like policing and safety. Our goal is to understand how open spaces impact community safety, and to see if our findings point in the direction of green spaces existing as an alternative to policing and/or as a method of promoting community safety.
 
 # A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why space and/or time matters for your project
 
