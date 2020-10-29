@@ -2,6 +2,7 @@
 
 # Project Title and Link to Proposal
 San Francisco: Crime and Green Space
+
 [Proposal](https://github.com/sgdiek/Sara.Sarah/blob/main/Group%20Assignments/Project%20Proposal%20Markdown.md) 
 
 # Roles
